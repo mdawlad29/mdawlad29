@@ -1,8 +1,8 @@
 <h2>Mohammad Awlad (Aloo) 👋</h2>
 <h4>Software Developer @ Softic OPC</h4>
-<p style="font-size: 10px;">Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of experience crafting high-performance, user-centric web applications. I specialize in frontend development, Progressive Web Apps (PWAs), and telemedicine platforms, with a proven track record of leading cross-functional teams and delivering impactful solutions.</p>
+<p>Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of experience crafting high-performance, user-centric web applications. I specialize in frontend development, Progressive Web Apps (PWAs), and telemedicine platforms, with a proven track record of leading cross-functional teams and delivering impactful solutions.</p>
 
-🌟 **Currently:** Building innovative telemedicine platforms and PWA integrations at Softic OPC.
+🌟 **Currently:** Building innovative telemedicine platforms and PWA integrations at Softic OPC.  
 🌱 **Learning:** Advanced React patterns, performance optimization, and scalable frontend architectures.  
 👯 **Open to Collaborate:** On healthcare solutions, PWAs, and modern frontend frameworks.  
 💬 **Ask Me About:** JavaScript, TypeScript, React, Angular, PWAs, and framework migrations.  
