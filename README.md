@@ -6,10 +6,7 @@
 🌱 **Learning:** Advanced React patterns, performance optimization, and scalable frontend architectures.  
 👯 **Open to Collaborate:** On healthcare solutions, PWAs, and modern frontend frameworks.  
 💬 **Ask Me About:** JavaScript, TypeScript, React, Angular, PWAs, and framework migrations.  
-📫 **Reach Me:** [mdawladbdinfo@gmail.com](mailto:mdawladbdinfo@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-username)  
-🌐 [Portfolio](https://your-portfolio-link.com)
-
+📫 **Reach Me:** [mdawladbdinfo@gmail.com](mailto:mdawladbdinfo@gmail.com) | [Linkedin](https://www.linkedin.com/in/mdawlad) | [Portfolio](https://awlad.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
