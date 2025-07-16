@@ -2,17 +2,11 @@
 <h4>Software Developer @ Softic OPC</h4>
 <p>Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of experience crafting high-performance, user-centric web applications. I specialize in frontend development, Progressive Web Apps (PWAs), and telemedicine platforms, with a proven track record of leading cross-functional teams and delivering impactful solutions.</p>
 
-- 🔭 I’m currently working on [Agent](https://dev-agent.localbet.xyz/)
-
-- 🌱 I’m currently learning **Node.js, Express.js, SQL, Nest.js, etc**
-
-- 👯 I’m looking to collaborate on [Sports of users](https://dev-user.localbet.xyz/)
-
-- 👨‍💻 All of my projects are available at [https://awlad.vercel.app/](https://awlad.vercel.app/)
-
-- 📫 How to reach me **mdawladbdinfo@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ocljEP70beL6809l_C2gVcrJ918KEBvX4712KJ5Krm4/edit](https://docs.google.com/document/d/1ocljEP70beL6809l_C2gVcrJ918KEBvX4712KJ5Krm4/edit)
+🌟 Currently: Building innovative telemedicine platforms and PWA integrations at Softic OPC.
+🌱 Learning: Advanced React patterns, performance optimization, and scalable frontend architectures.
+👯 Open to Collaborate: On healthcare solutions, PWAs, and modern frontend frameworks.
+💬 Ask Me About: JavaScript, TypeScript, React, Angular, PWAs, and framework migrations.
+📫 Reach Me: **mdawladbdinfo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
