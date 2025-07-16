@@ -1,5 +1,6 @@
 <h1>Mohammad Awlad (Aloo) 👋</h1>
-<h3>Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of experience crafting high-performance, user-centric web applications. I specialize in frontend development, Progressive Web Apps (PWAs), and telemedicine platforms, with a proven track record of leading cross-functional teams and delivering impactful solutions.</h3>
+<h4>Software Developer @ Softic OPC</h4>
+<p>Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of experience crafting high-performance, user-centric web applications. I specialize in frontend development, Progressive Web Apps (PWAs), and telemedicine platforms, with a proven track record of leading cross-functional teams and delivering impactful solutions.</p>
 
 <img align="right" alt="Profile image" width="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240916T050959Z&X-Amz-Expires=300&X-Amz-Signature=6f46e44cdc7e5ec498115c76db80a7b4d4bb182af60de8d19b8c624c8d67a9c4&X-Amz-SignedHeaders=host&actor_id=86625772&key_id=0&repo_id=588181932"/>
 
