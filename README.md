@@ -1,4 +1,4 @@
-<h1>Mohammad Awlad (Aloo) 👋</h1>
+<h2>Mohammad Awlad (Aloo) 👋</h2>
 <h4>Software Developer @ Softic OPC</h4>
 <p>Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of experience crafting high-performance, user-centric web applications. I specialize in frontend development, Progressive Web Apps (PWAs), and telemedicine platforms, with a proven track record of leading cross-functional teams and delivering impactful solutions.</p>
 
