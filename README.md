@@ -2,13 +2,14 @@
 <h4>Software Developer @ Softic OPC</h4>
 <p>Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of experience crafting high-performance, user-centric web applications. I specialize in frontend development, Progressive Web Apps (PWAs), and telemedicine platforms, with a proven track record of leading cross-functional teams and delivering impactful solutions.</p>
 
-<span>🌟 <strong>Currently:</strong> Building innovative telemedicine platforms and PWA integrations at Softic OPC.</span>&nbsp;&nbsp;
-<span>🌱 <strong>Learning:</strong> Advanced React patterns, performance optimization, and scalable frontend architectures.</span>&nbsp;&nbsp;
-<span>👯 <strong>Open to Collaborate:</strong> On healthcare solutions, PWAs, and modern frontend frameworks.</span>&nbsp;&nbsp;
-<span>💬 <strong>Ask Me About:</strong> JavaScript, TypeScript, React, Angular, PWAs, and framework migrations.</span>&nbsp;&nbsp;
-<span>📫 <strong>Reach Me:</strong> <a href="mailto:mdawladbdinfo@gmail.com">mdawladbdinfo@gmail.com</a></span>&nbsp;&nbsp;
-<span>🔗 <a href="https://www.linkedin.com/in/your-username">LinkedIn</a></span>&nbsp;&nbsp;
-<span>🌐 <a href="https://your-portfolio-link.com">Portfolio</a></span>
+🌟 **Currently:** Building innovative telemedicine platforms and PWA integrations at Softic OPC.  
+🌱 **Learning:** Advanced React patterns, performance optimization, and scalable frontend architectures.  
+👯 **Open to Collaborate:** On healthcare solutions, PWAs, and modern frontend frameworks.  
+💬 **Ask Me About:** JavaScript, TypeScript, React, Angular, PWAs, and framework migrations.  
+📫 **Reach Me:** [mdawladbdinfo@gmail.com](mailto:mdawladbdinfo@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-username)  
+🌐 [Portfolio](https://your-portfolio-link.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
